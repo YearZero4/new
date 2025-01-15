@@ -1,0 +1,13 @@
+{
+  "name": "railway-crud-app",
+  "version": "1.0.0",
+  "description": "Aplicación CRUD simple para desplegar en Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
